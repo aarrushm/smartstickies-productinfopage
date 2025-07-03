@@ -1,0 +1,8 @@
+*.faiss
+*.pkl
+*.txt
+.venv
+.env
+.vscode
+cleanenv
+__pycache__
