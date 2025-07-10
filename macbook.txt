@@ -1,0 +1,14 @@
+MacBook Air M2
+
+- Price: $1,199
+- Display: 13.6-inch Retina display with True Tone
+- Processor: Apple M2 chip with 8-core CPU and 8-core GPU
+- Memory: 8GB unified memory (configurable up to 24GB)
+- Storage: 256GB SSD (configurable up to 2TB)
+- Battery Life: Up to 18 hours wireless web
+- Ports: 2x Thunderbolt / USB 4 ports, MagSafe 3 charging port
+- Weight: 2.7 pounds (1.24 kg)
+- Operating System: macOS Monterey
+- Other Features: Magic Keyboard, Touch ID, Force Touch trackpad, Wi-Fi 6, Bluetooth 5.0
+
+Perfect for students and professionals who need a lightweight and powerful laptop.
