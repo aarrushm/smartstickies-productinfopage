@@ -1,12 +1,36 @@
-Nike Air Zoom Pegasus 39
+Product Name: Nike Air Zoom Pegasus 39
+Brand Name: Nike
 
-- Price: $130
-- Type: Running Shoes
-- Upper: Lightweight engineered mesh for breathability
-- Midsole: Zoom Air units for responsive cushioning
-- Outsole: Durable rubber with waffle pattern for traction
-- Support: Neutral running shoe for all foot types
-- Weight: 9.3 oz (men's size 9)
-- Available Colors: Black, White, Blue, Red
+Short Description:
+The Nike Pegasus 39 delivers comfort and support for every run, now lighter and even more responsive.
 
-Great for daily running, offering a balance of comfort, speed, and durability.
+Key Features:
+- React foam midsole for soft, springy ride
+- Breathable mesh upper for ventilation
+- Locked-in fit with Flywire cables
+- Zoom Air units in forefoot and heel for extra bounce
+- Durable rubber outsole for long-lasting traction
+
+Specs:
+Weight: 255g (Men's size 9)
+Heel Drop: 10mm
+Upper: Engineered mesh
+Outsole: Waffle rubber for grip
+Fit: True to size
+
+Price: $130
+
+Reviews:
+"Pegasus 39 offers the perfect balance of cushion and speed." - Runner’s World
+"Durable, reliable, and stylish—great for all levels." - SoleReview
+
+Color(s): Black, White, Blue, Red
+
+Image suggestion or file name(s):
+Front: pegasus39_front.jpg
+Side: pegasus39_side.jpg
+Blue color: pegasus39_blue.jpg
+Red color: pegasus39_red.jpg
+
+Logo suggestion or file name(s):
+nike_logo.png

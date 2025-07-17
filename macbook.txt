@@ -1,14 +1,39 @@
-MacBook Air M2
+Product Name: MacBook Air (M2)
+Brand Name: Apple
 
-- Price: $1,199
-- Display: 13.6-inch Retina display with True Tone
-- Processor: Apple M2 chip with 8-core CPU and 8-core GPU
-- Memory: 8GB unified memory (configurable up to 24GB)
-- Storage: 256GB SSD (configurable up to 2TB)
-- Battery Life: Up to 18 hours wireless web
-- Ports: 2x Thunderbolt / USB 4 ports, MagSafe 3 charging port
-- Weight: 2.7 pounds (1.24 kg)
-- Operating System: macOS Monterey
-- Other Features: Magic Keyboard, Touch ID, Force Touch trackpad, Wi-Fi 6, Bluetooth 5.0
+Short Description:
+The all-new MacBook Air with M2 chip redefines portable power, combining performance, all-day battery, and a stunning design.
 
-Perfect for students and professionals who need a lightweight and powerful laptop.
+Key Features:
+- Apple M2 chip for high performance
+- 13.6-inch Liquid Retina display with 500 nits brightness
+- Up to 18 hours of battery life
+- Fanless, silent design
+- MagSafe charging port
+- Four color options: Silver, Starlight, Space Gray, Midnight
+
+Specs:
+CPU: 8-core CPU, 8-core or 10-core GPU
+RAM: 8GB, 16GB, or 24GB unified memory
+Storage: 256GB, 512GB, 1TB, or 2TB SSD
+Display: 2560 x 1664 pixels, True Tone
+Camera: 1080p FaceTime HD
+Weight: 2.7 lbs (1.24 kg)
+Dimensions: 11.97 x 8.46 x 0.44 inches
+
+Price: Starts at $1,099
+
+Reviews:
+"The new MacBook Air M2 is a game changer for students and creators." - TechRadar
+"Best lightweight laptop of 2023." - CNET
+
+Color(s): Silver, Starlight, Space Gray, Midnight
+
+Image suggestion or file name(s):
+Front: macbook_air_front.webp
+Open/Keyboard: macbook_air_open.jpg
+Silver: macbook_air_silver.jpg
+Midnight: macbook_air_midnight.jpg
+
+Logo suggestion or file name(s):
+apple_logo.png
